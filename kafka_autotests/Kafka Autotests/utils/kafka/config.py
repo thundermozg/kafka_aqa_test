@@ -1,0 +1,5 @@
+BOOTSTRAP_SERVERS = "127.0.0.1:19092"
+ENCODING = "utf-8"
+
+PAYMENTS_TOPIC = "payments"
+RECEIPTS_TOPIC = "receipts"

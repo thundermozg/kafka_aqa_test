@@ -1,0 +1,6 @@
+BOOTSTRAP_SERVERS = "kafka1:9092"
+POLL_TIMEOUT_MS = 1000
+ENCODING = "utf-8"
+
+PAYMENTS_TOPIC = "payments"
+RECEIPTS_TOPIC = "receipts"
